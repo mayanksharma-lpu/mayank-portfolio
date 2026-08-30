@@ -4,14 +4,14 @@ import {
     Menu, X, Github, Linkedin, Mail, Download, Search, Layout, Database, Terminal, Shield, Star, Briefcase, ExternalLink, Copy, Check, Phone, MapPin, ArrowUpRight, GraduationCap, Award, FileCode, Play, Cpu, Rocket, Sparkles, Zap, Flame, RotateCcw
 } from 'lucide-react';
 
-import myCerts from './images/certs.png';
-import projectsCcFact from './images/projects-cc-fact.png';
-import projectsAgri from './images/projects-agri.png';
-import ccHouse from './images/cc_house.png';
-import factCheck from './images/fact_check.png';
-import profileMain from './images/profile_main.png';
-import profile1 from './images/profile1.png'; // Formal dress with glasses
-import profile2 from './images/profile2.png';
+import myCerts from './Images/certs.png';
+import projectsCcFact from './Images/projects-cc-fact.png';
+import projectsAgri from './Images/projects-agri.png';
+import ccHouse from './Images/cc_house.png';
+import factCheck from './Images/fact_check.png';
+import profileMain from './Images/profile_main.png';
+import profile1 from './Images/profile1.png'; // Formal dress with glasses
+import profile2 from './Images/profile2.png';
 
 // PRESERVED DATA
 const data = {
